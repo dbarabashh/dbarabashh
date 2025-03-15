@@ -1,5 +1,9 @@
-Hi, my name is Dima, and I am Frontend Engineer. Throughout my career, I have been working with JavaScript/TypeScript. I love open source, technical blogs, communities, and smart people.
+<pre align="center">
+    <strong>Hi, I'm Dima 👋🏻</strong> | <a href="https://dbarabashh.github.io/blog/">Blog</a> | <a href="https://x.com/dbarabashh">X (Twitter)</a> | <a href="https://www.linkedin.com/in/denysdovhan](https://www.linkedin.com/in/dima-barabash-537305276/)">LinkedIn</a>
+</pre>
 
-I am currently looking for my next challenge that I will take on to become better and explore a new domain.
+I work as a **JavaScript Engineer**
 
-In this profile, you can follow some of my activities on this wonderful platform.
+My interests revolve around `frontend`, `open-source`, and `devtools`.
+
+I support the community through open-source contributions, public speaking, organizing conferences, meetups, and workshops, as well as writing articles and tutorials.
