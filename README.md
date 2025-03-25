@@ -8,5 +8,6 @@ My interests revolve around `frontend`, `open-source`, and `devtools`.
 - I am exploring design-systems.  
 - I am also considering diving into learning a new programming language.
 
+[My latest post on my blog](https://dbarabashh.github.io/blog/posts/2025-03-25-sharpen-your-skills-with-open-source/)
 
 I support the community through open-source contributions, public speaking, organizing conferences, meetups, and workshops, as well as writing articles and tutorials.
