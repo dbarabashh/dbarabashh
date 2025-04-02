@@ -4,6 +4,6 @@
 
 My interests revolve around `frontend`, `open-source`, and `devtools`.
 
-[My latest post on my blog](https://dbarabashh.github.io/blog/posts/2025-03-25-sharpen-your-skills-with-open-source/)
+[My latest post on my blog](https://dbarabashh.github.io/blog/posts/2025-04-01-beyond-the-hype-why-ai-makes-technical-expertise-more-valuable-not-less/)
 
 I support the community through open-source contributions, public speaking, organizing conferences, meetups, and workshops, as well as writing articles and tutorials.
